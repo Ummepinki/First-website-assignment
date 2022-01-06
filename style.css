@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 35px;
+    margin-bottom: 0%;
+}
+.light-orange{
+    color:rgb(241, 168, 31);
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: rgb(228, 109, 66);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 70%;
+}
